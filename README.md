@@ -55,6 +55,19 @@ bmi  = 68 / (1.7 ** 2)     # float math
 print(f"{name} is {age} and the BMI is {bmi:.1f}")
 ```
 
+---
+
+### Lesson 3 functions
+
+**Objectives**
+
+1. Use functions for readability, maintainability, and reusability. 
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+```
+
 **Practice (20 min)**
 
 * Build a simple temperature converter (°C ↔ °F).
@@ -62,7 +75,7 @@ print(f"{name} is {age} and the BMI is {bmi:.1f}")
 
 ---
 
-### Lesson 3  Loops — `for` and `while`
+### Lesson 4  Loops — `for` and `while`
 
 **Objectives**
 
