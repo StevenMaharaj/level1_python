@@ -163,7 +163,7 @@ for key, value in student.items():
 
 ---
 
-### Capstone Mini-Project – **Number Guessing Game**
+### Capstone Project – **Number Guessing Game**
 
 Integrates input/output, data types, loops, conditionals, and collections.
 
@@ -173,11 +173,3 @@ Integrates input/output, data types, loops, conditionals, and collections.
 * Player guesses; program replies *Too high / Too low / Correct*.
 * Track the number of attempts in a list; show the history on success.
 * Limit to 7 tries; reveal the number if the player loses.
-
----
-
-### Wrap-up & Next Steps
-
-* 10-question quiz covering all five lessons.
-* Encourage creating a GitHub repo to store exercises.
-* Recommend advancing to functions, error handling, and modules.
